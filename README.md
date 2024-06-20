@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zaid Amjad</h1>
-<h3 align="center">A passionate full stack developer from Pakistan</h3>
+<h3 align="center">A passionate developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaidy-mughal&label=Profile%20views&color=0e75b6&style=flat" alt="zaidy-mughal" /> </p>
 
 - 🌱 I’m currently learning **Responsive frontend, DSA**
 
-- 👯 I’m looking to collaborate on **Freelancing Projects**
+- 👯 I’m looking to collaborate on **Programming Projects**
 
 - 🤝 I’m looking for help with **Real-world Websites**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **zaidamjadse@gmail.com**
 
-- ⚡ Fun fact **I love nature**
+- ⚡ Fun fact **I can play cricketer better than PCT.**
 
 
 
@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/zaidy_mughal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zaidy_mughal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-zaid-amjad-a5543a267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-zaid-amjad-a5543a267/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23504648/muhammad-zaid-amjad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23504648/muhammad-zaid-amjad" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23504648/zaydecode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23504648/muhammad-zaid-amjad" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/zaidy_mughal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/zaidy_mughal/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/zaidamjadse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/zaidamjadse/" height="30" width="40" /></a>
 </p>
