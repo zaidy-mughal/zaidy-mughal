@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaidy-mughal&label=Profile%20views&color=0e75b6&style=flat" alt="zaidy-mughal" /> </p>
 
-- 🌱 I’m currently learning **Responsive frontend, DSA**
+- 🌱 I’m currently learning **Python, Responsive frontend, DSA**
 
 - 👯 I’m looking to collaborate on **Programming Projects**
 
 - 🤝 I’m looking for help with **Real-world Websites**
 
-- 💬 Ask me about **java, c++**
+- 💬 Ask me about **Java, C++, Python**
 
 - 📫 How to reach me **zaidamjadse@gmail.com**
 
-- ⚡ Fun fact **I can play cricketer better than PCT.**
+- ⚡ Fun fact **I can play cricket better than PCT.**
 
 
 
