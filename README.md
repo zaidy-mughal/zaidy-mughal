@@ -4,30 +4,33 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zaidy-mughal&label=Profile%20views&color=0e75b6&style=flat" alt="zaidy-mughal" /> </p>
 
-- 🌱 I’m currently learning **Python, Scalable Backend, DSA**
+:arrow_right:  I’m currently learning **Python, Scalable Backend, DSA** 🌱
 
-- 👯 I’m looking to collaborate on **Programming Projects**
+:arrow_right:  I’m looking to collaborate on **Programming Projects** 👯
 
-- 🤝 I’m looking for help with **Real-world Websites**
+:arrow_right:  I’m looking for help with **Real-world Websites** 🤝
 
-- 💬 Ask me about **Java, C++, Python**
+:arrow_right:  Ask me about **Java, JavaFX, C, C++, Python, Django.** 💬
 
-- 📫 How to reach me **zaidamjadse@gmail.com**
+:arrow_right:  How to reach me **zaidamjadse@gmail.com** 📫
 
-- ⚡ Fun fact **I can play cricket better than PCT.**
+:arrow_right:  Fun fact **I can play cricket better than PCT.** ⚡
 
 
 
 
 ---
-### Languages and Tools:
+### :wrench: Frameworks and Tools:
 <p align="center"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
 
 
 ---
 ### 📈 GitHub Statistics:
-[![GitHub Streak](https://streak-stats.demolab.com?user=zaidy-mughal&theme=github_dark&hide_border=true&border_radius=4&card_width=500)](https://github.com/zaidy-mughal/) 
-[![Zaid Amjad's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaidy-mughal&show_icons=true&theme=github_dark&hide_border=true&border_radius=4&rank_icon=percentile)](https://github.com/zaidy-mughal/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidy-mughal&layout=pie&theme=github_dark&hide_border=true&border_radius=4&langs_count=6&hide=jupyter%20notebook,html)](https://github.com/zaidy-mughal/)
+[![Zaid Amjad's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaidy-mughal&show_icons=true&theme=github_dark&hide_border=true&border_radius=4&rank_icon=percentile)](https://github.com/zaidy-mughal/) [![GitHub Streak](https://streak-stats.demolab.com?user=zaidy-mughal&theme=github_dark&hide_border=true&border_radius=4&card_width=500)](https://github.com/zaidy-mughal/)
+
+---
+### :globe_with_meridians: Programming Languages :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidy-mughal&layout=pie&theme=github_dark&hide_border=true&border_radius=4&langs_count=6&hide=jupyter%20notebook,html)](https://github.com/zaidy-mughal/)
 
 ---
 ### Connect with me:
