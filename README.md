@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zaidy-mughal&label=Profile%20views&color=0e75b6&style=flat" alt="zaidy-mughal" /> </p>
 
-:arrow_right:  I’m currently learning **Python, Scalable Backend, DSA** 🌱
+:arrow_right:  I’m currently learning **Python, scalable Backend, DSA** 🌱
 
 :arrow_right:  I’m looking to collaborate on **Programming Projects** 👯
 
