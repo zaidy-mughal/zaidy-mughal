@@ -45,9 +45,9 @@
 
 ---
 ### 📈 GitHub Statistics:
-<div align="center"> 
-[![Zaid Amjad's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaidy-mughal&show_icons=true&theme=github_dark&hide_border=true&border_radius=4&rank_icon=percentile)](https://github.com/zaidy-mughal/) [![GitHub Streak](https://streak-stats.demolab.com?user=zaidy-mughal&theme=github_dark&hide_border=true&border_radius=4&card_width=500)](https://github.com/zaidy-mughal/)
-</div>
+
+[![Zaid Amjad's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaidy-mughal&show_icons=true&theme=github_dark&hide_border=true&border_radius=4&rank_icon=percentile&card_width=500)](https://github.com/zaidy-mughal/) [![GitHub Streak](https://streak-stats.demolab.com?user=zaidy-mughal&theme=github_dark&hide_border=true&border_radius=4&card_width=500)](https://github.com/zaidy-mughal/)
+
 
 ### :globe_with_meridians: Programming Languages :
 <p align="center">
