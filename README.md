@@ -4,9 +4,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zaidy-mughal&label=Profile%20views&color=0e75b6&style=flat" alt="zaidy-mughal" /> </p>
 
-- I’m currently learning  **Python, Scalable Backend, DSA** 
+- 💻  I’m currently learning  **Python, Scalable Backend, DSA** 
 
-- I’m looking to collaborate on  **Programming Projects** 
+- 👨‍💼 I’m looking to collaborate on  **Programming Projects** 
 
 - 🤝 I’m looking for help with  **Real-world Websites** 
 
