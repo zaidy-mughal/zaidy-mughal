@@ -1,6 +1,6 @@
 <h1 align="center">Assalam o Alaikum! Everyone 👋<br>I'm Muhammad Zaid Amjad</h1>
 
-<h2 align="center">A Software Engineer from Pakistan</h2>
+<h3 align="center">A Software Engineer from Pakistan</h3> 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zaidy-mughal&label=Profile%20views&color=0e75b6&style=flat" alt="zaidy-mughal" /> </p>
 
@@ -45,8 +45,9 @@
 
 ---
 ### 📈 GitHub Statistics:
+<div align="center"> 
 [![Zaid Amjad's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaidy-mughal&show_icons=true&theme=github_dark&hide_border=true&border_radius=4&rank_icon=percentile)](https://github.com/zaidy-mughal/) [![GitHub Streak](https://streak-stats.demolab.com?user=zaidy-mughal&theme=github_dark&hide_border=true&border_radius=4&card_width=500)](https://github.com/zaidy-mughal/)
-
+</div>
 
 ### :globe_with_meridians: Programming Languages :
 <p align="center">
