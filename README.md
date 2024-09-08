@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Muhammad Zaid Amjad</h1>
+<h1 align="center">Assalam o Alaikum! Everyone 👋<br>I'm Muhammad Zaid Amjad</h1>
 
-<h2 align="center">An emerging Software Engineer from Pakistan</h2>
+<h2 align="center">A Software Engineer from Pakistan</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zaidy-mughal&label=Profile%20views&color=0e75b6&style=flat" alt="zaidy-mughal" /> </p>
 
