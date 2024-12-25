@@ -69,6 +69,10 @@
 
 
 
+<h3 align="right">Wanna Support?</h3>
+<p><a href="https://www.buymeacoffee.com/zaidi"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zaidy-mughal" /></a></p>
+
+
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaidy-mughal&show_icons=true&locale=en&layout=compact" alt="zaidy-mughal" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaidy-mughal&" alt="zaidy-mughal" /></p>
