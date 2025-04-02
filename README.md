@@ -53,11 +53,9 @@
 
 
 ### :globe_with_meridians: Programming Languages :
-<p align="center">
-<a href="#">
-  <img height="180em" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidy-mughal&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-</a>
-</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidy-mughal&layout=pie&theme=github_dark&hide_border=true&border_radius=4&langs_count=6&hide=html,CSS,ejs)](https://github.com/zaidy-mughal/)
+
 
 ---
 ### 🔘 Connect with me:
