@@ -63,12 +63,13 @@
 <a href="https://www.linkedin.com/in/muhammad-zaid-amjad-a5543a267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-zaid-amjad-a5543a267/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23504648/zaydecode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23504648/muhammad-zaid-amjad" height="30" width="40" /></a>
 <a href="https://www.instagram.com/zaidy_mughal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/zaidy_mughal/" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/zaidamjadse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/zaidamjadse/" height="30" width="40" /></a></p>
+</p>
 
 
-
+<!--
 <h3 align="right">Wanna Support?</h3>
 <p><a href="https://www.buymeacoffee.com/zaidi"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zaidy-mughal" /></a></p>
+-->
 
 
 <!--
