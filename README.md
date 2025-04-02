@@ -1,8 +1,5 @@
 <h1 align="center">Assalam o Alaikum! Everyone 👋<br>I'm Muhammad Zaid Amjad</h1>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" style="width: 100%; max-width: 400px;">
-</p>
 <h3 align="center">A Software Engineer from Pakistan</h3> 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zaidy-mughal&label=Profile%20views&color=0e75b6&style=flat" alt="zaidy-mughal" /> </p>
@@ -63,6 +60,9 @@
 <a href="https://www.linkedin.com/in/muhammad-zaid-amjad-a5543a267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-zaid-amjad-a5543a267/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23504648/zaydecode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23504648/muhammad-zaid-amjad" height="30" width="40" /></a>
 <a href="https://www.instagram.com/zaidy_mughal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/zaidy_mughal/" height="30" width="40" /></a>
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" style="width: 100%; max-width: 400px;">
 </p>
 
 
