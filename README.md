@@ -1,8 +1,7 @@
 # Muhammad Zaid Amjad
-## Software Engineer | Backend Developer | Student
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Back-end+Developer;Curious Student;Python+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Back-end+Developer;Curious+Student;Python+Developer" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -13,12 +12,12 @@
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
 I'm a passionate **Software Engineer** with **1+ years** of experience building scalable, high-performance applications. I specialize in **back-end development**, and **DevOps practices**. My expertise spans across multiple domains including **enterprise software**, **microservices architecture** and **healthcare softwares**.
 
 - 🔭 Currently architecting **distributed systems** and **scalable backends applications**
-- 🌱 Exploring **AI/ML**, **SRE**, **DevSecOps**, and **Public Speaking**
+- 🌱 Exploring **AI/ML**, **SRE**, **DevOps**, and **Public Speaking**
 - 👯 Open to collaborating on **innovative projects** and **open-source initiatives**
 - 🎯 Seeking opportunities in **FAANG companies** and **innovative startups**
 - 💡 Passionate about **clean code**, **system design**, and **performance optimization**
@@ -26,64 +25,40 @@ I'm a passionate **Software Engineer** with **1+ years** of experience building 
 
 ---
 
-## 🛠️ Technical Expertise
+### 🛠️ Technical Expertise
 
-### Programming Languages
+#### Programming Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,c,dart" />
 </p>
 
-### Frontend Technologies
+#### Frontend Technologies
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,html,css,sass,bootstrap,jquery" />
 </p>
 
-### Backend & Frameworks
+#### Backend & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,graphql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,graphql,rest" />
 </p>
 
-### Databases & Storage
+#### Databases & Storage
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,supabase,firebase" />
   <!--<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,cassandra,elasticsearch,supabase,firebase" />-->
 </p>
 
-### Cloud & DevOps
+#### Cloud & DevOps
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions" />
 </p>
 
-### Development Tools
+#### Development Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,vim,git,github,figma,postman,linux,jira,trello" />
 </p>
 
----
-
-## 🏗️ Architecture & Specializations
-
-```mermaid
-mindmap
-  root((Software Engineering))
-    Full-Stack Development
-      Frontend Frameworks
-      Backend APIs
-      Database Design
-    Cloud Architecture
-      Microservices
-      Serverless
-      Container Orchestration
-    DevOps & MLOps
-      CI/CD Pipelines
-      Infrastructure as Code
-      Monitoring & Logging
-    Emerging Technologies
-      AI/ML Integration
-      Blockchain Development
-      Edge Computing
-```
-
+<!--
 ### 🎯 Core Competencies
 
 - **System Design**: Scalable architectures, microservices, distributed systems
@@ -96,7 +71,7 @@ mindmap
 
 ---
 
-## 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zaidy-mughal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -108,12 +83,6 @@ mindmap
 </div>
 
 ---
-
-## 🏆 Achievements & Certifications
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zaidy-mughal&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
 
 ### 📜 Professional Certifications
 - **DataCamp Certified Associate Software Engineer** (Professional)
@@ -161,12 +130,11 @@ mindmap
 
 -->
 
----
 
-## 🤝 Let's Connect & Collaborate
+### 🤝 Let's Connect & Collaborate
 
 <div align="center">
-  <a href="https://linkedin.com/in/muhammad-zaid-amjad-a5543a267" target="_blank">
+  <a href="https://linkedin.com/in/zaidamjadse" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/zaidy_mughal" target="_blank">
@@ -183,15 +151,38 @@ mindmap
   </a>
 </div>
 
----
 
-## 💡 What Drives Me
+### 💡 What Drives Me
 
 > "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 I believe in writing **clean, maintainable code** that solves real-world problems. My mission is to leverage technology to create solutions that make a positive impact on society while continuously learning and growing in this ever-evolving field.
 
 ---
+
+### Continously Learning & Exploring
+
+```mermaid
+mindmap
+  root((Software Engineering))
+    Full-Stack Development
+      Frontend Frameworks
+      Backend APIs
+      Database Design
+    Cloud Architecture
+      Microservices
+      Serverless
+      Container Orchestration
+    DevOps & MLOps
+      CI/CD Pipelines
+      Infrastructure as Code
+      Monitoring & Logging
+    Emerging Technologies
+      AI/ML Integration
+      Blockchain Development
+      Edge Computing
+```
+
 <!--
 ## 📊 Weekly Development Breakdown
 
