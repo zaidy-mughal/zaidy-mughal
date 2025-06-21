@@ -1,8 +1,8 @@
 # Muhammad Zaid Amjad
-## Senior Software Engineer | Full-Stack Developer | Cloud Architect
+## Software Engineer | Backend Developer | Student
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Senior+Software+Engineer;Full-Stack+Developer;Cloud+Solutions+Architect;DevOps+%26+MLOps+Engineer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Back-end+Developer;Curious Student;Python+Developer" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -15,11 +15,11 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Senior Software Engineer** with **5+ years** of experience building scalable, high-performance applications. I specialize in **full-stack development**, **cloud architecture**, and **DevOps practices**. My expertise spans across multiple domains including **enterprise software**, **microservices architecture**, **machine learning**, and **blockchain technologies**.
+I'm a passionate **Software Engineer** with **1+ years** of experience building scalable, high-performance applications. I specialize in **back-end development**, and **DevOps practices**. My expertise spans across multiple domains including **enterprise software**, **microservices architecture** and **healthcare softwares**.
 
-- 🔭 Currently architecting **distributed systems** and **cloud-native applications**
-- 🌱 Exploring **AI/ML**, **Blockchain**, **Web3**, and **Edge Computing**
-- 👯 Open to collaborating on **enterprise-grade projects** and **open-source initiatives**
+- 🔭 Currently architecting **distributed systems** and **scalable backends applications**
+- 🌱 Exploring **AI/ML**, **SRE**, **DevSecOps**, and **Public Speaking**
+- 👯 Open to collaborating on **innovative projects** and **open-source initiatives**
 - 🎯 Seeking opportunities in **FAANG companies** and **innovative startups**
 - 💡 Passionate about **clean code**, **system design**, and **performance optimization**
 - 📧 Reach me at: **zaidamjadse@gmail.com**
@@ -30,32 +30,33 @@ I'm a passionate **Senior Software Engineer** with **5+ years** of experience bu
 
 ### Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp,c,go,rust,kotlin,swift" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,c,dart" />
 </p>
 
 ### Frontend Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,html,css,sass,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,sass,bootstrap,jquery" />
 </p>
 
 ### Backend & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,spring,nestjs,flask,graphql,prisma,hibernate" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,graphql" />
 </p>
 
 ### Databases & Storage
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,cassandra,elasticsearch,supabase,firebase" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,supabase,firebase" />
+  <!--<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,cassandra,elasticsearch,supabase,firebase" />-->
 </p>
 
 ### Cloud & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,jenkins,githubactions,prometheus,grafana" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions" />
 </p>
 
 ### Development Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,vim,git,github,gitlab,figma,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,vim,git,github,figma,postman,linux,jira,trello" />
 </p>
 
 ---
@@ -88,8 +89,10 @@ mindmap
 - **System Design**: Scalable architectures, microservices, distributed systems
 - **Performance Optimization**: Caching strategies, database optimization, CDN implementation
 - **Security**: OAuth 2.0, JWT, encryption, secure coding practices
-- **Testing**: Unit testing, integration testing, E2E testing, TDD/BDD
+- **Testing**: Unit testing, integration testing
+<!--- **Testing**: Unit testing, integration testing, E2E testing, TDD/BDD //
 - **Monitoring**: APM tools, logging, metrics, alerting systems
+-->
 
 ---
 
@@ -104,10 +107,6 @@ mindmap
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaidy-mughal&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaidy-mughal&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
-</div>
-
 ---
 
 ## 🏆 Achievements & Certifications
@@ -117,17 +116,22 @@ mindmap
 </div>
 
 ### 📜 Professional Certifications
+- **DataCamp Certified Associate Software Engineer** (Professional)
+- **POSTMAN Certified API Fundamentals Student Expert**
+
+<!--
 - **AWS Certified Solutions Architect** (Professional)
 - **Google Cloud Professional Cloud Architect**
 - **Kubernetes Certified Administrator (CKA)**
 - **Docker Certified Associate**
 - **Certified Ethical Hacker (CEH)**
 
+
 ---
 
 ## 💼 Professional Experience
 
-### Senior Software Engineer | Tech Lead
+### Software Engineer | Tech Lead 
 **Building enterprise-grade solutions with 99.9% uptime**
 - Led development of microservices architecture serving **10M+ users**
 - Reduced system latency by **40%** through performance optimization
@@ -154,6 +158,8 @@ mindmap
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=zaidy-mughal&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contribution Stats"/>
 </div>
+
+-->
 
 ---
 
@@ -186,7 +192,7 @@ mindmap
 I believe in writing **clean, maintainable code** that solves real-world problems. My mission is to leverage technology to create solutions that make a positive impact on society while continuously learning and growing in this ever-evolving field.
 
 ---
-
+<!--
 ## 📊 Weekly Development Breakdown
 
 ```text
@@ -197,7 +203,7 @@ Java         2 hrs 20 mins   ██░░░░░░░░░░░░░   9.0
 Go           1 hr 10 mins    █░░░░░░░░░░░░░░   4.2%
 ```
 
----
+-->
 
 <div align="center">
   <h3>⭐ Star my repositories if you find them interesting!</h3>
@@ -205,7 +211,7 @@ Go           1 hr 10 mins    █░░░░░░░░░░░░░░   4.2
     <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
   </p>
   
-  **Thank you for visiting my profile! Let's build something amazing together! 🚀**
+  **Thank you for visiting my profile! Let's build something amazing together!**
 </div>
 
 
