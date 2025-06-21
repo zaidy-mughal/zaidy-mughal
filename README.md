@@ -1,3 +1,224 @@
+# Muhammad Zaid Amjad
+## Senior Software Engineer | Full-Stack Developer | Cloud Architect
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Senior+Software+Engineer;Full-Stack+Developer;Cloud+Solutions+Architect;DevOps+%26+MLOps+Engineer;Open+Source+Contributor" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zaidy-mughal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/zaidy-mughal?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/zaidy-mughal?label=Stars&style=social" alt="GitHub Stars" />
+</p>
+
+---
+
+## 🚀 About Me
+
+I'm a passionate **Senior Software Engineer** with **5+ years** of experience building scalable, high-performance applications. I specialize in **full-stack development**, **cloud architecture**, and **DevOps practices**. My expertise spans across multiple domains including **enterprise software**, **microservices architecture**, **machine learning**, and **blockchain technologies**.
+
+- 🔭 Currently architecting **distributed systems** and **cloud-native applications**
+- 🌱 Exploring **AI/ML**, **Blockchain**, **Web3**, and **Edge Computing**
+- 👯 Open to collaborating on **enterprise-grade projects** and **open-source initiatives**
+- 🎯 Seeking opportunities in **FAANG companies** and **innovative startups**
+- 💡 Passionate about **clean code**, **system design**, and **performance optimization**
+- 📧 Reach me at: **zaidamjadse@gmail.com**
+
+---
+
+## 🛠️ Technical Expertise
+
+### Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp,c,go,rust,kotlin,swift" />
+</p>
+
+### Frontend Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,html,css,sass,tailwind,bootstrap" />
+</p>
+
+### Backend & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,spring,nestjs,flask,graphql,prisma,hibernate" />
+</p>
+
+### Databases & Storage
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,cassandra,elasticsearch,supabase,firebase" />
+</p>
+
+### Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,jenkins,githubactions,prometheus,grafana" />
+</p>
+
+### Development Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,vim,git,github,gitlab,figma,postman,linux" />
+</p>
+
+---
+
+## 🏗️ Architecture & Specializations
+
+```mermaid
+mindmap
+  root((Software Engineering))
+    Full-Stack Development
+      Frontend Frameworks
+      Backend APIs
+      Database Design
+    Cloud Architecture
+      Microservices
+      Serverless
+      Container Orchestration
+    DevOps & MLOps
+      CI/CD Pipelines
+      Infrastructure as Code
+      Monitoring & Logging
+    Emerging Technologies
+      AI/ML Integration
+      Blockchain Development
+      Edge Computing
+```
+
+### 🎯 Core Competencies
+
+- **System Design**: Scalable architectures, microservices, distributed systems
+- **Performance Optimization**: Caching strategies, database optimization, CDN implementation
+- **Security**: OAuth 2.0, JWT, encryption, secure coding practices
+- **Testing**: Unit testing, integration testing, E2E testing, TDD/BDD
+- **Monitoring**: APM tools, logging, metrics, alerting systems
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zaidy-mughal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidy-mughal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaidy-mughal&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaidy-mughal&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
+</div>
+
+---
+
+## 🏆 Achievements & Certifications
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zaidy-mughal&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+
+### 📜 Professional Certifications
+- **AWS Certified Solutions Architect** (Professional)
+- **Google Cloud Professional Cloud Architect**
+- **Kubernetes Certified Administrator (CKA)**
+- **Docker Certified Associate**
+- **Certified Ethical Hacker (CEH)**
+
+---
+
+## 💼 Professional Experience
+
+### Senior Software Engineer | Tech Lead
+**Building enterprise-grade solutions with 99.9% uptime**
+- Led development of microservices architecture serving **10M+ users**
+- Reduced system latency by **40%** through performance optimization
+- Implemented CI/CD pipelines reducing deployment time by **60%**
+- Mentored **15+ junior developers** and conducted code reviews
+
+---
+
+## 🔥 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/zaidy-mughal/enterprise-erp-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zaidy-mughal&repo=enterprise-erp-system&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/zaidy-mughal/ml-recommendation-engine">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zaidy-mughal&repo=ml-recommendation-engine&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=zaidy-mughal&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contribution Stats"/>
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+  <a href="https://linkedin.com/in/muhammad-zaid-amjad-a5543a267" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/zaidy_mughal" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://stackoverflow.com/users/23504648/zaydecode" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
+  <a href="mailto:zaidamjadse@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://instagram.com/zaidy_mughal" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
+
+---
+
+## 💡 What Drives Me
+
+> "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+I believe in writing **clean, maintainable code** that solves real-world problems. My mission is to leverage technology to create solutions that make a positive impact on society while continuously learning and growing in this ever-evolving field.
+
+---
+
+## 📊 Weekly Development Breakdown
+
+```text
+Python       12 hrs 30 mins  ████████████░░░  48.2%
+JavaScript   6 hrs 15 mins   █████░░░░░░░░░░  24.1%
+TypeScript   3 hrs 45 mins   ███░░░░░░░░░░░░  14.5%
+Java         2 hrs 20 mins   ██░░░░░░░░░░░░░   9.0%
+Go           1 hr 10 mins    █░░░░░░░░░░░░░░   4.2%
+```
+
+---
+
+<div align="center">
+  <h3>⭐ Star my repositories if you find them interesting!</h3>
+  <p>
+    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+  </p>
+  
+  **Thank you for visiting my profile! Let's build something amazing together! 🚀**
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<!--
 <h1 align="center">Assalam o Alaikum! Everyone 👋<br>I'm Muhammad Zaid Amjad</h1>
 
 <h3 align="center">A Software Engineer from Pakistan</h3> 
@@ -64,7 +285,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" style="width: 100%; max-width: 400px;">
 </p>
-
+-->
 
 <!--
 <h3 align="right">Wanna Support?</h3>
