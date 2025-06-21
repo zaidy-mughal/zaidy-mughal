@@ -39,7 +39,7 @@ I'm a passionate **Software Engineer** with **1+ years** of experience building 
 
 #### Backend & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,graphql,rest" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,graphql" />
 </p>
 
 #### Databases & Storage
