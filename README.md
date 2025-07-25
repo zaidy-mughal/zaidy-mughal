@@ -160,29 +160,6 @@ I believe in writing **clean, maintainable code** that solves real-world problem
 
 ---
 
-### Continously Learning & Exploring
-
-```mermaid
-mindmap
-  root((Software Engineering))
-    Full-Stack Development
-      Frontend Frameworks
-      Backend APIs
-      Database Design
-    Cloud Architecture
-      Microservices
-      Serverless
-      Container Orchestration
-    DevOps & MLOps
-      CI/CD Pipelines
-      Infrastructure as Code
-      Monitoring & Logging
-    Emerging Technologies
-      AI/ML Integration
-      Blockchain Development
-      Edge Computing
-```
-
 <!--
 ## 📊 Weekly Development Breakdown
 
