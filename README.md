@@ -179,7 +179,6 @@ Go           1 hr 10 mins    █░░░░░░░░░░░░░░   4.2
     <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
   </p>
   
-  **Thank you for visiting my profile! Let's build something amazing together!**
 </div>
 
 
