@@ -17,7 +17,7 @@
 I'm a passionate **Software Engineer** with **6+ months** of experience building scalable, high-performance applications. I specialize in **back-end development**, and **DevOps practices**. My expertise spans across multiple domains including **enterprise software**, **microservices architecture** and **healthcare softwares**.
 
 - 🔭 Currently architecting **distributed systems** and **scalable backends applications**
-- 🌱 Exploring **AI/ML**, **SRE**, **DevOps**, **Public Speaking** and **Open source**.
+- 🌱 Exploring **AI/ML**, **DevOps**, **Public Speaking** and **Open source**.
 - 👯 Open to collaborating on **innovative projects** and **open-source initiatives**
 - 🎯 Seeking opportunities in **FAANG companies** and **innovative startups**
 - 💡 Passionate about **clean code**, **system design**, and **performance optimization**
