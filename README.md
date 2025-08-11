@@ -154,9 +154,10 @@ I'm a passionate **Software Engineer** with **6+ months** of experience building
 
 ### 💡 What Drives Me
 
+I believe in writing **clean, maintainable code** that solves real-world problems. My mission is to leverage technology to create solutions that make a positive impact on society while continuously learning and growing in this ever-evolving field.
+
 > "Code is like humor. When you have to explain it, it's bad." - Cory House
 
-I believe in writing **clean, maintainable code** that solves real-world problems. My mission is to leverage technology to create solutions that make a positive impact on society while continuously learning and growing in this ever-evolving field.
 
 ---
 
