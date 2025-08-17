@@ -18,7 +18,7 @@ I'm a passionate **Software Engineer** with **6+ months** of experience building
 
 - 🔭 Currently architecting **distributed systems** and **scalable backends applications**
 - 🌱 Exploring **AI/ML**, **DevOps**, **Public Speaking** and **Open source**.
-- 👯 Open to collaborating on **innovative projects** and **open-source initiatives**
+- 👯 Open to collaborating on **innovative projects** and **open-source**
 - 🎯 Seeking opportunities in **FAANG companies** and **innovative startups**
 - 💡 Passionate about **clean code**, **system design**, and **performance optimization**
 - 📧 Reach me at: **zaidamjadse@gmail.com**
