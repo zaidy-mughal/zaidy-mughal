@@ -10,21 +10,17 @@
   <img src="https://img.shields.io/github/stars/zaidy-mughal?label=Stars&style=social" alt="GitHub Stars" />
 </p>
 
----
-
 ### 🚀 About Me
 
-I'm a passionate **Software Engineer** with **6+ months** of experience building scalable, high-performance applications. I specialize in **back-end development**, and **DevOps practices**. My expertise spans across multiple domains including **enterprise software**, **microservices architecture** and **healthcare softwares**.
+I'm a motivated **Software Engineering Student** with **3+ months** of experience building applications.
 
-- 🔭 Currently architecting **distributed systems** and **scalable backends applications**
-- 🌱 Exploring **AI/ML**, **DevOps**, **Public Speaking** and **Open source**.
-- 👯 Open to collaborating on **innovative projects** and **open-source**
-- 🎯 Seeking opportunities in **FAANG companies** and **innovative startups**
-- 💡 Passionate about **clean code**, **system design**, and **performance optimization**
-- 📧 Reach me at: **zaidamjadse@gmail.com**
+- Exploring AI/ML, Backend Systems, DevOps, Public Speaking, and Open source.
+- Open to collaborating on innovative projects and open-source.
+- Passionate about serving the community with technology.
+- Reach me at: **zaidamjadse@gmail.com**
 
----
 
+<!--
 ### 🛠️ Technical Expertise
 
 #### Programming Languages
@@ -45,7 +41,7 @@ I'm a passionate **Software Engineer** with **6+ months** of experience building
 #### Databases & Storage
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,supabase,firebase" />
-  <!--<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,cassandra,elasticsearch,supabase,firebase" />-->
+  <!--<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,cassandra,elasticsearch,supabase,firebase" />
 </p>
 
 #### Cloud & DevOps
@@ -58,7 +54,8 @@ I'm a passionate **Software Engineer** with **6+ months** of experience building
   <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,vim,git,github,figma,postman,linux,jira,trello" />
 </p>
 
-<!--
+
+
 ### 🎯 Core Competencies
 
 - **System Design**: Scalable architectures, microservices, distributed systems
@@ -69,8 +66,7 @@ I'm a passionate **Software Engineer** with **6+ months** of experience building
 - **Monitoring**: APM tools, logging, metrics, alerting systems
 -->
 
----
-
+<!--
 ### GitHub Analytics
 
 <div align="center">
@@ -81,12 +77,11 @@ I'm a passionate **Software Engineer** with **6+ months** of experience building
 <div align="center">
   
 </div>
-
----
+-->
 
 ### 📜 Professional Certifications
-- **DataCamp Certified Associate Software Engineer** (Professional)
-- **POSTMAN Certified API Fundamentals Student Expert**
+- DataCamp Certified Associate Software Engineer (Professional)
+- POSTMAN Certified API Fundamentals Student Expert
 
 <!--
 - **AWS Certified Solutions Architect** (Professional)
@@ -159,7 +154,6 @@ I believe in writing **clean, maintainable code** that solves real-world problem
 > "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 
----
 
 <!--
 ## 📊 Weekly Development Breakdown
