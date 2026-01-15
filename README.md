@@ -80,7 +80,7 @@ I'm a motivated **Software Engineering Student** with **3+ months** of experienc
 -->
 
 ### 📜 Professional Certifications
-- DataCamp Certified Associate Software Engineer (Professional)
+- DataCamp Certified Associate Python Developer (Professional)
 - POSTMAN Certified API Fundamentals Student Expert
 
 <!--
