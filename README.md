@@ -12,9 +12,10 @@
 
 ### 🚀 About Me
 
-I'm a motivated **Software Engineering Student** with **3+ months** of experience building applications.
+I'm a **Software Engineer**, currently pursuing Bachelor's Degree of Software Engineering at **COMSATS Institute of Information and Technology**.
 
-- Exploring AI/ML, Backend Systems, DevOps, Public Speaking, and Open source.
+- Experience in full-stack developement with Django and React.
+- Exploring AI/ML, DevOps, Public Speaking, and Open source.
 - Open to collaborating on innovative projects and open-source.
 - Passionate about serving the community with technology.
 - Reach me at: **zaidamjadse@gmail.com**
